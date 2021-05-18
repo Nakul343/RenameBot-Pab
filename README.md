@@ -16,7 +16,7 @@ Rename any Telegram Files with Permanent Thumbnail Support
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/PabBots/RenameBot-Pab
+git clone https://github.com/NakulRaveendran/RenameBot-Pab
 cd RenameBot-PermTB
 virtualenv -p python3 VENV
 . ./VENV/bin/activate
