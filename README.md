@@ -30,7 +30,6 @@ python3 -m tobrot
 
 ## Credits, and Thanks to Beloved Developers ;
 
-* [PabBots](https://telegram.dog/PabBots) 
 * [SpEcHlDe](https://telegram.dog/SpEcHlDe) 
 * [Dan Tès](https://telegram.dog/haskell) 
 * [Yoily](https://telegram.dog/YoilyL)
