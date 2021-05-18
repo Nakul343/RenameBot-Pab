@@ -26,7 +26,7 @@ python3 -m tobrot
 ```
 
 
-#### For Queries and support, contact [prgofficial](https://telegram.dog/prgofficial)
+#### For Queries and support, contact [PabBots](https://telegram.dog/pabbots)
 
 ## Credits, and Thanks to Beloved Developers ;
 
